@@ -43,10 +43,10 @@
             //                       |      |      |      |        |  |       |      |       |       |
 
             bindings = <
-&trans     &kp C_BRI_DN  &kp C_BRI_UP  &kp C_MUTE  &kp C_VOL_DN  &kp C_VOL_UP                             &trans     &trans           &kp SLASH        &kp KP_MULTIPLY  &kp HOME   &kp PAGE_UP
-&kp F1     &kp F2        &kp F3        &kp F4      &kp F5        &kp F6                                   &kp F7     &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp MINUS  &kp PAGE_DOWN
-&kp GRAVE  &kp EXCL      &kp AT        &kp HASH    &kp DOLLAR    &kp PRCNT                                &kp CARET  &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6  &kp PLUS   &kp END
-&trans     &trans        &trans        &trans      &trans        &trans        &trans    &trans           &trans     &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp EQUAL  &kp PIPE
+&trans     &kp C_BRI_DN  &kp C_BRI_UP  &kp C_MUTE  &kp C_VOL_DN  &kp C_VOL_UP                             &trans     &kp KP_NUMLOCK   &kp KP_DIVIDE    &kp KP_MULTIPLY  &kp HOME      &kp PAGE_UP
+&kp F1     &kp F2        &kp F3        &kp F4      &kp F5        &kp F6                                   &kp F7     &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp KP_MINUS  &kp PAGE_DOWN
+&kp GRAVE  &kp EXCL      &kp AT        &kp HASH    &kp DOLLAR    &kp PRCNT                                &kp CARET  &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6  &kp KP_PLUS   &kp END
+&trans     &trans        &trans        &trans      &trans        &trans        &trans    &trans           &trans     &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp KP_EQUAL  &kp PIPE
                                        &trans      &trans        &trans        &trans    &kp KP_NUMBER_0  &trans     &trans           &trans
             >;
 
